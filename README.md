@@ -1,7 +1,7 @@
-### Hi, I'm Astrid👋
+# Hi, I'm Astrid👋
 
 👩‍🎓 Electrical engineering graduate passionate about biomedical engineering and embedded systems<br/>
-📜 earned my Bachelor of Science in Electrical Engineering at Florida International University<br/>
+📜 Earned my Bachelor of Science in Electrical Engineering at Florida International University<br/>
 📚 Currently learning about data analytics, machine learning, and Python<br/>
 📖 Starting Master's degree in Biomedical Engineering, Fall 2024<br/>
 
